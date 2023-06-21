@@ -31,7 +31,13 @@ This cost reduction is mainly attributed to SpaceX's ability to reuse the first 
 * Machine Learning Libraries
     * Scikit Learn
 
-
 ### Deliverables ###
+* Comprehensive businees report in form of a power point presentation.
+* Jupyter notebooks containing codes and results
 
 ### Findings ###
+Through analysis, it is deduced that the main factors to consider when predicting the outcome of a successful landing can be attributed to (but not limited to):
+* Mass of the payload
+* Orbit Type
+
+
